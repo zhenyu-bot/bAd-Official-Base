@@ -68,6 +68,23 @@ Latest organizational layout of bAd:
 
 ---
 
+## 🏛️ General Framework for Each bAd Organization
+
+<img src="Docs/General Framework for Each Org..png" width="850">
+
+We are delighted to announce that:
+- The 1st Ministerial Supervision and Electoral Committee of CQU bAd has been officially established, with members being Zhenyu Yang, Ziyi Zhou, Hui Ren, Qinyu Zhu, and Xiaoman Cao, serving a term from June 2026 to December 2026. Notably, the member number of the 1st Committee is and will be a single exception
+- The Minister selected by Ministerial Supervision and Electoral Committee of CQU bAd is Mengmeng Ren, serving from June 2026 to December 2026
+- The Minister has nominated Yijie Hu and Xiuyuan Wei as assistants to form the management team, which has been appointed by the council
+
+---
+
+## 🤔 How to Pioneer a bAd Organization in Your Province (Area)?
+
+To be continued...
+
+---
+
 ## 🎯 Club Philosophy
 > **Equal communication, pure sports, fun first & common progress**
 
@@ -79,18 +96,6 @@ We gather badminton lovers together, build a friendly community, and combine spo
 - All files, videos, images and codes in this repository belong to **bAd**.
 - Commercial use, reproduction and redistribution are prohibited without official permission.
 - For cooperation or inquiries, please contact the club management team (Phone: +8618580258251).
-
----
-
-## 🏛️ General Framework for Each bAd Organization
-
-<img src="Docs/General Framework for Each Org..png" width="850">
-
----
-
-## 🤔 How to Pioneer a bAd Organization in Your Province (Area)?
-
-To be continued...
 
 ---
 
