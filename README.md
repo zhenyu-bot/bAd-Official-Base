@@ -82,9 +82,9 @@ We gather badminton lovers together, build a friendly community, and combine spo
 
 ---
 
-## 🏛️ bAd Headquarters (in Chongqing) Organizational Chart
+## 🏛️ General Framework for Each bAd Organization
 
-Coming soon...
+<img src="Docs/General Framework for Each Org..png" width="850">
 
 ---
 
