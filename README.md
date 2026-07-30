@@ -84,7 +84,7 @@ We are delighted to announce that:
 
 ## 🤔 How to Pioneer a bAd Organization in Your Province (Area)?
 
-To be continued...
+<img src="Docs/Join Way.png" width="850">
 
 ---
 
