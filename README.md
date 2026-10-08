@@ -27,7 +27,7 @@ bAd is a non-profit organization. This repository is for sharing the officially 
  Women's Sigle Champion
   <br />
   <br />
-  <img src="Docs/Staff.JPG" width="850">
+  <img src="Docs/Players and Staff.JPG" width="850">
   <br />
  Players and Staff
 </div>
