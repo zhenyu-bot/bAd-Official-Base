@@ -1,6 +1,6 @@
 # bAd-Official-Base
 <div align="center">
-  <img src="Docs/2026 Season Proceedings.png" width="850">
+  <img src="Docs/2026 Season Proceeding.png" width="850">
   <br />
   <br />
   <a href="https://github.com/zhenyu-bot/bAd-Official-Base/edit/main/LICENSE"><img alt="MIT License" src="https://img.shields.io/badge/license-MIT-blue.svg" /></a>
