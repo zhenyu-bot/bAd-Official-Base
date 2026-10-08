@@ -17,17 +17,17 @@ bAd is a non-profit organization. This repository is for sharing the officially 
 ## News!!
 - Congratulations to Pu Jinke (Chongqing University) and Zhong Muchen (Chongqing University of Posts and Telecommunications) for winning the men’s singles and women’s singles championships respectively at the 1st bAd Club Class A Ranking Tournament (Chongqing) in 2026! We also extend our sincere gratitude to sponsors including Wang Shijie (Founder of Chongqing Zhixing Future) and event staff such as Ren Mengmeng for their service to the competition.
 <div align="center">
-  <img src="Docs/MS.jpg" width="400">
+  <img src="Docs/MS.JPG" width="400">
   <br />
  Men's Sigle Champion
   <br />
   <br />
-  <img src="Docs/WS.jpg" width="400">
+  <img src="Docs/WS.JPG" width="400">
   <br />
  Women's Sigle Champion
   <br />
   <br />
-  <img src="Docs/Staff.jpg" width="850">
+  <img src="Docs/Staff.JPG" width="850">
   <br />
  Players and Staff
 </div>
