@@ -14,6 +14,11 @@ bAd is a non-profit organization. This repository is for sharing the officially 
 
 ---
 
+## News!!
+Congratulations to Pu Jinke (Chongqing University) and Zhong Muchen (Chongqing University of Posts and Telecommunications) for winning the men’s singles and women’s singles championships respectively at the 1st bAd Club Class A Ranking Tournament (Chongqing) in 2026! We also extend our sincere gratitude to sponsors including Wang Shijie (Founder of Chongqing Zhixing Future) and event staff such as Ren Mengmeng for their service to the competition.
+
+---
+
 ## 📂 Repository Structure
 bAd-Official-Base/
 
