@@ -15,22 +15,8 @@ bAd is a non-profit organization. This repository is for sharing the officially 
 ---
 
 ## News!!
-- Congratulations to Pu Jinke (Chongqing University) and Zhong Muchen (Chongqing University of Posts and Telecommunications) for winning the men’s singles and women’s singles championships respectively at the 1st bAd Club Class A Ranking Tournament (Chongqing) in 2026! We also extend our sincere gratitude to sponsors including Wang Shijie (Founder of Chongqing Zhixing Future) and event staff such as Ren Mengmeng for their service to the competition.
-<div align="center">
-  <img src="Docs/MS.JPG" width="400">
-  <br />
- Men's Sigle Champion
-  <br />
-  <br />
-  <img src="Docs/WS.JPG" width="400">
-  <br />
- Women's Sigle Champion
-  <br />
-  <br />
-  <img src="Docs/Players and Staff.JPG" width="850">
-  <br />
- Players and Staff
-</div>
+- The CQU CUP will be held on November 7, 2026. This is a Class O tournament listed by bAd. According to the regulations, the **top 8** finishers in each event will receive Class O points ranging from 1024 to 128. Good luck to all competitors in CQU!
+- The preparatory committee for the 2027 bAd Masters Tournament and Entertainment Match has been officially established. The members are **Ren Mengmeng (leader), Pu Jinke, Hu Yijie, and Wei Xiuyuan.** This is an A-level tournament (Chongqing) listed by bAd. We wish it every success!
 
 ---
 
