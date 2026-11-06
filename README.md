@@ -15,8 +15,7 @@ bAd is a non-profit organization. This repository is for sharing the officially 
 ---
 
 ## News!!
-- ~~The CQU CUP will be held on November 7, 2026. This is a O-level tournament listed by bAd. According to the regulations, the **top 8** finishers in each event will receive O-level points ranging from 1024 to 128. Good luck to all competitors in CQU!~~
-- The CQU CUP will be held on November 7, 2026. This is a O-level tournament listed by bAd. According to the regulations, the **top 8** finishers in Men's Double, Women's Single, and Women's Double will receive O-level points ranging from 1024 to 128. Good luck to all competitors in CQU!
+- The CQU CUP will be held on November 7, 2026. This is a O-level tournament listed by bAd. According to the regulations, the **top 8** finishers in each event will receive O-level points ranging from 1024 to 128. Good luck to all competitors in CQU!
 - The preparatory committee for the 2027 bAd Masters Tournament and Entertainment Match has been officially established. The members are **Ren Mengmeng (leader), Pu Jinke, Hu Yijie, and Wei Xiuyuan.** This is an A-level tournament (Chongqing) listed by bAd. We wish it every success!
 
 ---
